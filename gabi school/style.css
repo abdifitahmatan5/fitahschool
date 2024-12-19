@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+nav .navber ul{
+    display: flex;
+    gap: 40px;
+    font-size: 15px;
+    list-style: none;
+    padding-top: 25px;
+    color: white;
+}
+.navber ul span{
+    color: #F05654;
+}
+.navber ul li:hover{
+    color: #F05654;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.header{
+    background-color: #2d2370;
+    height: 70vh;
+}
+.first_1{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 50px;
+}
+.first_2 h1{
+    color: white;
+    font-size: 80px;
+    padding-top: 40px;
+}
+.first_2 span{
+    color: #F05654;
+}
+.first_2 p{
+    color: white;
+    line-height: 24px;
+    margin-top: 15px;
+}
+.first_2 button{
+    background-color: #F05654;
+    margin-top: 15px;
+    color: white;
+    padding: 12px;
+    width: 140px;
+    border: 0;
+    font-weight: 900;
+}
+.first_2 button:hover{
+    background-color: white;
+    color: #F05654;
+    transition: 0.3s;
+}
+.arrow{
+    margin-left: 19%;
+}
+.arrow_1{
+    display: flex;
+    gap: 15px;
+    padding-top: 100px;
+    margin-top: -140px;
+    z-index: 1;
+}
+.arrow_1 p{
+    padding-top: 15px;
+    font-size: 20px;
+
+}
+section{
+    background-color: #F9F9F9;
+}
+.sec{
+    text-align: center;
+    margin-top: 200px;
+}
+.sec h5{
+    color: #F05654;
+    padding-bottom: 15px;
+}
+.sec p{
+    font-size: 60px;
+}
+.sec span{
+    background-color: #f057545a;
+    padding: 5px;
+    color: #F05654;
+    font-weight: 600;
+}
+.sec .sec_text p{
+    font-size: 15px;
+    margin-top: 30px;
+    line-height: 25px;
+}
+.box_2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.box_4{
+    background-color: #2d2370;
+    padding: 55px;
+    padding-top: 50px;
+    color: white;
+    height: 45vh;
+ 
+   
+    margin-bottom: 200px;
+}
+.box_1 img{
+    padding-bottom: 20px;
+}
+.box_4 .box_txt{
+    padding-bottom: 20px;
+    font-size: 30px; 
+}
+.box_4 p{
+    line-height: 25px;
+}
+nav p{
+    background-color: #cb100d;
+    padding: 10px;
+}
+.pele img{
+    width: 1000px;
+   
+}
+.pele{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 100px;
+}
+.neymar{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 170px;
+}
+.jr2 button{
+    background-color: #F05654;
+    color: white;
+    padding: 15px;
+    width: 150px;
+   border: 0;
+    
+}
+.jr samp{
+    background-color: #f0575471;
+    padding: 10px;
+}
+.jr p{
+    padding-top: 30px;
+}
+.said samp{
+    background-color: #F05654;
+}
+.said h1{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 100px;
+}
+.said p{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 30px;
+}
+.eden image{
+ width: 900px;  
+ 
+}
+.eden{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+.vini samp{
+    background-color: #bd6a69;
+}
+.vini h1{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-top: 100px;
+}
+.pedri{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    background-color: #280fcb;
+    margin-top: 50px;
+    height: 30vh;
+    padding-top: 200px;
+}
+.pedri h1{
+    color: white;
+}
+.cavi {
+    color: #F05654;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin-top: -200px;
+}
+.cavi button{
+    background-color: #F05654;
+    color: white;
+    padding: 15px;
+    width: 150px;
+   border: 0;
+   
+}
